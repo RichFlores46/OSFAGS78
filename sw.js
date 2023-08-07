@@ -85,7 +85,23 @@ const APP_SHELL =[
 "Transparencia/XLVIII-Transparencia.html",
 "Transparencia/XLIX-Transparencia.html",
 
-
+"img/menu/Bienvenidaok01.png",
+"img/menu/Comitesok.png",
+"img/menu/Comitésok.png",
+"img/menu/contacto2.png",
+"img/menu/Contactok.png",
+"img/menu/denunciaok.png",
+"img/menu/estatal.png",
+"img/menu/estatalok.png",
+"img/menu/Informeok01.png",
+"img/menu/Interésok.png",
+"img/menu/Programasok.png",
+"img/menu/proteccionok01.png",
+"img/menu/Sistema.png",
+"img/menu/sobreok01.png",
+"img/menu/sobreosfags.png",
+"img/menu/Somosok01.png",
+"img/logo2.png",
 
 
 "assets/casa-corazón.mp4",
